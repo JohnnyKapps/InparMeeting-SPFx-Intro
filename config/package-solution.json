@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "alllists-client-side-solution",
+    "id": "0b662b3f-2ba4-48e5-ae13-dd32c4bef3c4",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/alllists.sppkg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/showAllLists/ShowAllListsWebPart.js",
+      "manifest": "./src/webparts/showAllLists/ShowAllListsWebPart.manifest.json",
+      "outputPath": "./dist/show-all-lists-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "ShowAllListsWebPartStrings": "webparts/showAllLists/loc/{locale}.js"
+  }
+}
