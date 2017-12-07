@@ -42,7 +42,7 @@ export default class ShowAllListsWebPartWebPart extends BaseClientSideWebPart<IS
       for(let i = 0; i < lists.length; i++){
         html += `
         <li>
-          <p><strong>List title: </strong>${lists[i].Title}</p>
+          <p>${lists[i].Title}</p>
         </li>`;
       }
       this.domElement.querySelector('#lists').innerHTML = html;
